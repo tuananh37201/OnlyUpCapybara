@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 1d9eb8295150e8e4abe82dc6fe094aec
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat
+    second: {fileID: 2100000, guid: 4f2413d03815d754cac881e379d5a460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat1
+    second: {fileID: 2100000, guid: 9dcbbb2d98acca74f9e135d7819db3ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat10
+    second: {fileID: 2100000, guid: 5f81cda0c95346c4592bd505880c6dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat12
+    second: {fileID: 2100000, guid: 818d3c78f055ad341830a9fac22c548a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat13
+    second: {fileID: 2100000, guid: c0dbc1cda0475f6448438c809ab3392d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat14
+    second: {fileID: 2100000, guid: 0a5b1082421e6eb45b6ce395ef56a88d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat15
+    second: {fileID: 2100000, guid: a00e0f53221e1b1408a6e3d8ad4e9f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat16
+    second: {fileID: 2100000, guid: 7450f2dc96fc1c84c8760c4a6c4eb036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat17
+    second: {fileID: 2100000, guid: dbd36e0b379cfc248b0d21de3074ba08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat18
+    second: {fileID: 2100000, guid: 3ec88b31c6be8a042adcf7877d90e6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat19
+    second: {fileID: 2100000, guid: 6e39403b6516de4439fc98669efec439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat2
+    second: {fileID: 2100000, guid: 14648e9a6cdf7a947968c035c04975e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat20
+    second: {fileID: 2100000, guid: 7d0f12990bc4aac4b8f86c01819c81c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat21
+    second: {fileID: 2100000, guid: a020e0fd02d65e2469a63a5275956da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat3
+    second: {fileID: 2100000, guid: 676a1c55e1c416b4ea99f95f6e989c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat4
+    second: {fileID: 2100000, guid: d9118780dcf49924c9180c29dd00c3a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat5
+    second: {fileID: 2100000, guid: 67ddf38fa3035784cadacefcf4757eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat6
+    second: {fileID: 2100000, guid: 7abe018ff128c6f46a48e0359c0ed826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat7
+    second: {fileID: 2100000, guid: 30d84025f3dacdc4abc8bd2638a7d158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat8
+    second: {fileID: 2100000, guid: 5973c016b7ee902449b532382ebea285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candy_land_Mat9
+    second: {fileID: 2100000, guid: f6d6849ab59267a45844a9875c90b67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: db0e577a9a0b25a4dbfab496541cc47e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11417ba3e68d4d21be08f385293c15a2_RGB_Nieve_01_BaseColor
+    second: {fileID: 2800000, guid: 37b4e2a49eff5e84c8a8c95a1683a536, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1a7e080c73b04838a9f6aadd8a42af1e_RGB_Waffer_BaseColor_02
+    second: {fileID: 2800000, guid: 3793d18ae25cc6b4b8869c3c9e48b288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 247226df792d4774b0a22bdd5a2b4355_RGB_Terrain_02_BaseColor
+    second: {fileID: 2800000, guid: 4ee24884cc1bc484ba5868a0e7c780a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 292b7788db8240719ac26cd1748d799c_RGB_Paleta_02_BaseColor
+    second: {fileID: 2800000, guid: dceb1d770dacd0f43a5e1996803633df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2bebf6a6575c47ee9664b2b718312aeb_RGB_Chocolate_bar_BaseColor
+    second: {fileID: 2800000, guid: d7266324e067b494c903ee0e62e571bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2ce9dc0ef9ce4baa850b5f8ba10649b5_RGB_Platillo_BaseColor
+    second: {fileID: 2800000, guid: 3cc14a147a7f6e740a99bc5a84688018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2dda495101dd4f82a1fba38b8a369f76_RGB_IceCream_01_BaseColor
+    second: {fileID: 2800000, guid: ef0237db7703afb4c942af6178d0c305, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7369ae24e13c42cc976ac36aeea8b3af_RGB_Colombina_BaseColor
+    second: {fileID: 2800000, guid: 2703dd82653a0fe41a5eab0e9f5be1f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 784be8cf863c4d48986af87919423fda_RGB_Platillo_BaseColor
+    second: {fileID: 2800000, guid: a1147505d19286c4886b9a08824b0853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 805a5874d0b84b22905189dc9105693e_RGB_Barquillo_BaseColor
+    second: {fileID: 2800000, guid: dc3e7bdb28db9444c8f08f60bdbb377b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 901fcbc3693c4158b0dbb83b39b4cc4e_RGB_Chocolate_BaseColor
+    second: {fileID: 2800000, guid: 32b6c234110e6df40b45e656340e31c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 92c920fe3dcf46ae8bb276ec1b1389a3_RGB_Paleta_02_BaseColor_03
+    second: {fileID: 2800000, guid: c4550a0611d8e1240a2446a2364b0ace, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9c8396b0eed543d0a6b0b65a555e1926_RGB_Masmelo_01_BaseColor
+    second: {fileID: 2800000, guid: caf653bfe58434c409d02bcfde3579f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a0348ed175bd4a489831997b1ac217c6_RGB_Waffer_BaseColor
+    second: {fileID: 2800000, guid: c7bdfebafd372a346bfeec6fd1a5aea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ad9280c509994e87999cbb65455bc1c4_RGB_Paleta_02_BaseColor_02
+    second: {fileID: 2800000, guid: f32aa3006bea1474f9a35f9f50c949be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: add9a6e50a0042cdb1a64749ffaf1e48_RGB_Barquillo_BaseColor_02
+    second: {fileID: 2800000, guid: 5f56da7f1b7a8e04e80090421d5dc28b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b09366c6571848eb8d1f444c4f6fba20_RGB_IceCream_02_BaseColor
+    second: {fileID: 2800000, guid: 412175cf2c32cf1459be33d340c032a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b101c8e9c94144eaae4981e46edf2383_RGB_Terrain_BaseColor
+    second: {fileID: 2800000, guid: feddfa993ed5a394685d9cca4d05eaaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b6b72160b3dd4062bfedc482b10e069a_RGB_Waffle_01.002_BaseColor
+    second: {fileID: 2800000, guid: 202bb662f2cc4044c8d55c7a4132fdef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f40dd5eb90f948c69bcc25be29bf802e_RGB_Colombina_BaseColor_02
+    second: {fileID: 2800000, guid: 15b408fdbb1d2b048bbabf08a8626434, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f63bd551e90744d48601b1b373284e91_RGB_Colombina_BaseColor_03
+    second: {fileID: 2800000, guid: 5792595a14ab13d4da3e743c15ccbe6a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,135 @@
+{
+"skeleton": {
+	"hash": "qfxppjGez1E",
+	"spine": "4.0.34",
+	"x": -519,
+	"y": -114,
+	"width": 1038,
+	"height": 227,
+	"images": "",
+	"audio": "F:/Trang Màu/Only Up Monster/txt-checkpoint"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "star1-bone", "parent": "root", "x": -488.2, "y": 67.34 },
+	{ "name": "star5", "parent": "root", "x": -377.16, "y": -90.65 },
+	{ "name": "star4", "parent": "root", "x": 53.17, "y": -71.31 },
+	{ "name": "star3", "parent": "root", "x": 339.23, "y": 67.4 },
+	{ "name": "star2", "parent": "root", "x": 498.41, "y": -75.74 },
+	{ "name": "txt-revive", "parent": "root", "x": 0.03, "y": -31.88 }
+],
+"slots": [
+	{ "name": "txt-revive", "bone": "txt-revive", "attachment": "txt-revive" },
+	{ "name": "star1", "bone": "star1-bone", "attachment": "star1" },
+	{ "name": "star2", "bone": "star2", "attachment": "star2" },
+	{ "name": "star3", "bone": "star3", "attachment": "star3" },
+	{ "name": "star4", "bone": "star4", "attachment": "star4" },
+	{ "name": "star5", "bone": "star5", "attachment": "star5" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"star1": {
+				"star1": { "x": -0.3, "y": 0.16, "width": 61, "height": 91 }
+			},
+			"star2": {
+				"star2": { "x": 0.09, "y": 0.74, "width": 41, "height": 62 }
+			},
+			"star3": {
+				"star3": { "x": -0.23, "y": -0.4, "width": 32, "height": 48 }
+			},
+			"star4": {
+				"star4": { "x": -0.17, "y": 0.31, "width": 32, "height": 48 }
+			},
+			"star5": {
+				"star5": { "x": 1.16, "y": 0.15, "width": 32, "height": 47 }
+			},
+			"txt-revive": {
+				"txt-revive": { "x": 14.47, "y": 22.38, "width": 995, "height": 149 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"star1-bone": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "value": 14 },
+					{ "time": 1, "value": -13.35 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.213, "y": 0.213 },
+					{ "time": 1.3333 }
+				]
+			},
+			"star5": {
+				"rotate": [
+					{ "value": 34.69 },
+					{ "time": 0.6667, "value": 6.2 },
+					{ "time": 1.3333, "value": 34.69 }
+				],
+				"scale": [
+					{ "x": 0.315, "y": 0.315 },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 0.315, "y": 0.315 }
+				]
+			},
+			"star4": {
+				"rotate": [
+					{},
+					{ "time": 0.6667, "value": -32.55 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.314, "y": 0.314 },
+					{ "time": 1.3333 }
+				]
+			},
+			"star3": {
+				"rotate": [
+					{ "value": 12.66 },
+					{ "time": 0.6667, "value": -18.68 },
+					{ "time": 1.3333, "value": 12.66 }
+				],
+				"scale": [
+					{ "x": 0.385, "y": 0.385 },
+					{ "time": 0.6667, "x": 1.582, "y": 1.582 },
+					{ "time": 1.3333, "x": 0.385, "y": 0.385 }
+				]
+			},
+			"star2": {
+				"rotate": [
+					{},
+					{ "time": 0.6667, "value": 34 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.246, "y": 0.246 },
+					{ "time": 1.3333 }
+				]
+			},
+			"txt-revive": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.02, "y": 1.02 },
+					{ "time": 1.3333 }
+				]
+			},
+			"root": {
+				"translate": [
+					{ "y": -13.28 },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "y": -13.28 }
+				]
+			}
+		}
+	}
+}
+}

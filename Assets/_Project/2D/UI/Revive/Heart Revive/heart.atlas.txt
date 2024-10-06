@@ -1,0 +1,12 @@
+heart.png
+size:512,512
+filter:Linear,Linear
+pma:true
+heart
+bounds:2,221,294,246
+wing-L
+bounds:2,2,217,139
+rotate:90
+wing-R
+bounds:143,2,217,139
+rotate:90

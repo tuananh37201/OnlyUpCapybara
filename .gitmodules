@@ -1,0 +1,3 @@
+[submodule "unitycommonextension"]
+	path = unitycommonextension
+	url = git@gitlab.com:luongnd28200/unitycommonextension.git
